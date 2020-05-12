@@ -2,14 +2,14 @@
 
 # Output Image
 
-#Game Home Page
+# Game Home Page
 image 1
 ![](output/gamepage.png)
 
-#When Game Is Running
+# When Game Is Running
 image 2
 ![](output/gamerunning.png)
 
-#When One Player is Winning
+# When One Player is Winning
 image 2
 ![](output/gamewinner.png)
